@@ -1,0 +1,19 @@
+{
+    "articles": [
+        {
+            "image": "images/op1.jpg",
+            "title": "Luffy's childhood",
+			"content": "Luffy has two brothers, Ace and Sabo."
+        },
+        {
+            "image": "images/op2.jpg",
+            "title": "Monkey D Luffy",
+			"content": "Monkey D Luffe, who ate the devil fruit, is a rubber man."
+        },
+        {
+            "image": "images/op3.jpg",
+            "title": "Luffy and Sabo",
+			"content": "Luffy fight with Sabo. Sabo ate the shaoshao devil fruite which belonged to Ace before."
+        }
+    ]
+}

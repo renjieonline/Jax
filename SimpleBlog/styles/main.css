@@ -1,0 +1,39 @@
+body {
+  background-color: #EEEEEE;	
+}
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 850px;
+  border: 1px solid silver;
+  margin: 20px 10px;
+  background-color: #FFFFFF;
+  float: left;
+}
+img {
+  width: 800px;
+  height: 450px;
+}
+#container {
+  width: 1000px;
+  float: left;
+}
+.article {
+  position: relative;
+  left: 100px;
+}
+.content {
+  width: 800px;
+  text-align: left;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+.edit {
+  position: relative;
+  top: 30px;
+  right: 180px;
+  float: right;
+  visibility: hidden;
+}
